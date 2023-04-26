@@ -11,6 +11,8 @@
 
 <a href="https://solved.ac/profile/sorohue"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sorohue"></a>
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=sorohue)](https://solved.ac/sorohue)
+
 <img src="http://mazandi.herokuapp.com/api?handle=sorohue&theme=cold"/>
 
 </div>
