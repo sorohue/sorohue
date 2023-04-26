@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A0CAFF&height=250&section=header&text=SOROHUE&fontSize=60&fontColor=ffffff)
   
-  2022.03 - Now || Sejong Academy of Science and Arts 8th 
+2022.03 - Now || Sejong Academy of Science and Arts 8th 
 
   
 # Cards
