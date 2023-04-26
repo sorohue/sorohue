@@ -1,7 +1,10 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A0CAFF&height=250&section=header&text=SOROHUE&fontSize=60&fontColor=ffffff)
+  
+  2022.03 - Now || Sejong Academy of Science and Arts 8th 
 
+  
 # Cards
 <a href="https://github.com/sorohue"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sorohue&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
