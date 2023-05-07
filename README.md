@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A0CAFF&height=250&section=header&text=SOROHUE&fontSize=60&fontColor=ffffff)
   
-2022.03 - Now || 세종과학예술영재학교 8기 재학
+2022.03 - Now || 세종과학예술영재학교 8기
  
 2023.03 || GEC Cup 검수
   
