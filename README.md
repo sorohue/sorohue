@@ -7,6 +7,10 @@
 2023.03 || GEC Cup 검수
   
 2023.04 || 구데기컵 검수
+
+2023.06 || FunctionCup 2023 검수
+
+2023.06 || 제2회 초콜릿컵 검수
   
 # Cards
 <a href="https://github.com/sorohue"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sorohue&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
