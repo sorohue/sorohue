@@ -11,6 +11,16 @@
 2023.06 || FunctionCup 2023 검수
 
 2023.06 || 제2회 초콜릿컵 검수
+
+2023.08 || 아니메컵 OVA ~한여름의 수학여행 편~ 검수
+
+2023.10 || 기1행 검수
+
+**2023.11 || SASA Programming Contest 2023 개최**
+
+2023.12 || BOJ Bundle in Math Vol. 1 검수
+
+2023.12 || 2023 제2회 미적확통컵 검수
   
 # Cards
 <a href="https://github.com/sorohue"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sorohue&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
